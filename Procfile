@@ -1,1 +1,1 @@
-web: bundle exec ruby todo.rb -p $PORT
+web: bundle exec ruby application.rb -p $PORT
